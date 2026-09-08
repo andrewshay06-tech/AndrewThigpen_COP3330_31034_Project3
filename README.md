@@ -1,6 +1,6 @@
 # Account & Password Validator
 
-**Andrew Thigpen | COP 3330C | CRN 13038**
+**Andrew Thigpen | CEN 3024C | CRN 13038**
 
 ## Description
 
